@@ -288,7 +288,6 @@ multi-document-conversational-rag/
 ├── runtime.txt
 ├── .gitignore
 ├── .env
-├── LICENSE
 └── README.md
 ```
 
@@ -473,8 +472,3 @@ Possible improvements include:
 - using the exact retrieved context returned by the RAG chain for source attribution
 - support for additional document formats such as TXT and DOCX
 
-## 📄 License and Attribution
-
-This project is distributed under the license included in the repository.
-
-If this project is based on or contains substantial portions of another MIT-licensed project, the original copyright and license notice should be retained in accordance with the MIT License.
